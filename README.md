@@ -1,9 +1,7 @@
 # React JS Todo List App
 
 <div align="center">
-
-![todo-react-app readme gif](https://github.com/murilobispo/react-todo-list/assets/112359490/fb3b7dce-70e7-4018-98f7-574400138525)
-
+  <img src="https://github.com/murilobispo/react-todo-list/assets/112359490/fb3b7dce-70e7-4018-98f7-574400138525" width="600" alt="app-preview">
 </div>
 
 ## About The Project
